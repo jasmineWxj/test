@@ -100,25 +100,7 @@
       <url>中间尾部跳转链接</url>
     </tab_container>
     <tab_container>
-      <size>2</size>
-      <list_container>
-        <url>内容区跳转链接</url>
-        <src>https://cdn.sm.cn/static/20/09/07/675b020526396e725912bbe4ee2f8c19.png</src>
-        <text>明日战记</text>
-        <text_1>京东旗舰店</text_1>
-        <img>https://cdn.sm.cn/static/22/07/19/ec0acf987f4e0e6f83808f407ba1abd2.png</img>
-        <text_2>上榜理由：顺畅丝滑的IOS系统，领先竞品两代强大芯片、完善封闭的苹果</text_2>
-      </list_container>
-      <list_container>
-        <src>https://cdn.sm.cn/static/20/09/07/675b020526396e725912bbe4ee2f8c19.png</src>
-        <text>搜嘎搜嘎</text>
-        <text_1>京东旗舰店</text_1>
-        <img>https://cdn.sm.cn/static/22/07/19/ec0acf987f4e0e6f83808f407ba1abd2.png</img>
-        <text_2>上榜理由：顺畅丝滑的IOS系统，领先竞品两代强大芯片、完善封闭的苹果</text_2>
-      </list_container>
-      <text>查看全部</text>
-      <url>中间尾部跳转链接</url>
-    </tab_container>
+      <siasdadsaasdasd
   </tab_container_box>
   <footer_text>查看更多</footer_text>
   <footer_url>footer跳转lian</footer_url>
